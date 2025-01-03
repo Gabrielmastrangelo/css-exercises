@@ -1,0 +1,13 @@
+.click,
+.noclick {
+ font-size: 28px; 
+}
+
+.click {
+  color: white;
+  background-color: black;
+}
+
+.noclick {
+  background-color: yellow;
+}
