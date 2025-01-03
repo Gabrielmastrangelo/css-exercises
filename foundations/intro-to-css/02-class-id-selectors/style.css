@@ -1,0 +1,21 @@
+/* style.css */
+
+.paragraph {
+    background-color: rgb(250,128,114);
+    font-family: "Verdana", "DejaVu Sans", "sans-serif"
+}
+
+#div4,
+.paragraph-bigger {
+    font-size: 24px;
+}
+
+#div2 {
+    color: #0000FF;
+    font-size: 36px;
+}
+
+#div4 {
+    background-color: #90EE90;
+    font-weight: bold;
+}
